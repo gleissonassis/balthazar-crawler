@@ -48,4 +48,4 @@ We are indexing these content's categories:
 
 ### Help
 
-Feel free to make contact or contribute with the project.
+Feel free to make contact or contribute to the project.
